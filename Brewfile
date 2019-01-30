@@ -25,6 +25,7 @@ echo "Upgrading Homebrew cask apps"
 brew cask upgrade
 
 casks=(
+	"1password"
 	"coconutbattery"
 	"docker"
 	"font-hack-nerd-font"
